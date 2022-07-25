@@ -28,7 +28,7 @@ _Republic of Cuba Military Intelligence Map, 1934 _ Explanation of the map.[^1]
        label="Republic of Cuba Military Intelligence Map, 1934" 
        description="map showing relief, etc" 
        license="copyright" 
-       url="https://github.com/annhanlon/images/blob/7fa176f6074fff94758b93f413df8e03932e655b/agdm_1459_medium.jpg">
+       url="https://annhanlon.github.io/images/agdm_1459_medium.jpg">
 
 ## Map
 
