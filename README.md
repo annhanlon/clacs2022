@@ -3,7 +3,7 @@
 <param ve-config 
        title="CLACS Summer 2022 Workshop"
        author="Ann Hanlon"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/8/8b/Unnamed_Road%2C_Haiti_-_panoramio_%2831%29.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/f/f7/Citadelle_Laferri%C3%A8re%2C_Haiti%2C_1920_-_49810176056.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -52,4 +52,4 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 
 # References
 
-[^1]: [Wikimedia Commons: Citadelle Laferrière, Haiti, 1920]([https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring](https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re,_Haiti,_1920_-_49810176056.jpg))
+[^1]: [Wikimedia Commons: Citadelle Laferrière, Haiti, 1920](https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re,_Haiti,_1920_-_49810176056.jpg)
