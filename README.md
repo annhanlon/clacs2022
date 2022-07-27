@@ -16,7 +16,7 @@
 
 # Citadelle Laferrière
 
-This is a sample visual essay to demonstrate how to use Juncture for the CLACS 2022 Summer Workshop. The banner image features Haiti's Citadelle Laferriere, photographed from an airplane in 1920. The first image featured in this essay is also an image of Citadelle Laferriere, from 1935.
+This is a sample visual essay to demonstrate how to use Juncture for the CLACS 2022 Summer Workshop. The banner image features Haiti's Citadelle Laferriere, photographed from an airplane in 1920[^1]. The first image featured in this essay is also an image of Citadelle Laferriere, from 1935.
 <param ve-image 
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agsnorth/2574/manifest.json">
 
@@ -24,7 +24,7 @@ This is a sample visual essay to demonstrate how to use Juncture for the CLACS 2
 
 ## Image
 
-_Republic of Cuba Military Intelligence Map, 1934 _ Explanation of the map.[^1]
+_Republic of Cuba Military Intelligence Map, 1934 _ Explanation of the map.
 <param ve-image 
        label="Republic of Cuba Military Intelligence Map, 1934" 
        description="map showing relief, etc" 
