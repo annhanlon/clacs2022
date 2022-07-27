@@ -33,7 +33,7 @@ _Republic of Cuba Military Intelligence Map, 1934 _ Explanation of the map.[^1]
 ## Central Park in Havana, Cuba
 
 From the Smithsonian Institution collections
-<param ve-image
+<param ve-image region="1,-198,2992,2380"
        manifest="https://ids.si.edu/ids/manifest/NMAH-AHB2012q03608">
 
 
