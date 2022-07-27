@@ -34,10 +34,7 @@ _Republic of Cuba Military Intelligence Map, 1934 _ Explanation of the map.[^1]
 
 From the Smithsonian Institution collections
 <param ve-image
-       label="Habana. Central Park"
-       description="ink on paper"
-       license="https://www.si.edu/termsofuse"
-       manifest="https%3A%2F%2Fids.si.edu%2Fids%2Fmanifest%2FNMAH-AHB2012q03610">
+       manifest="https://ids.si.edu/ids/manifest/NMAH-AHB2012q03608">
 
 
 ## Map
