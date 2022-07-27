@@ -1,7 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="CLACS Summer 2022 Workshop" 
+       title="CLACS Summer 2022 Workshop"
+       author="Ann Hanlon"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/8/8b/Unnamed_Road%2C_Haiti_-_panoramio_%2831%29.jpg" 
        layout="vertical">
 
