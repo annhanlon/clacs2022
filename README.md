@@ -38,8 +38,8 @@ From the Smithsonian Institution collections
 
 ## Map
 
-The Citadelle Laferrière is several miles inland from Cap Hatien. We are using the map information from Wikidata to create the map to right.
-<param ve-map center="Q206194" zoom="11" prefer-geojson>
+The Citadelle Laferrière is several miles inland from Cap-Haitien. We are using the map information from Wikidata to create the map to right.
+<param ve-map center="Q206194" zoom="11">
 
 ## Multiple viewers
 
