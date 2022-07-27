@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="CLACS Summer 2022 Workshop" 
-       banner="https://iiif.juncture-digital.org/banner/?url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Unnamed_Road%2C_Haiti_-_panoramio_%2831%29.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/8/8b/Unnamed_Road%2C_Haiti_-_panoramio_%2831%29.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
