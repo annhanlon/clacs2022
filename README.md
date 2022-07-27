@@ -9,16 +9,16 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
+<param ve-entity eid="Q206194"> <!-- Citadelle Laferriere -->
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Citadelle Laferrière
 
-This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
+This is a sample visual essay to demonstrate how to use Juncture for the CLACS 2022 Summer Workshop. The banner image features Haiti's Citadelle Laferriere, photographed from an airplane in 1920. The first image featured in this essay is also an image of Citadelle Laferriere, from 1935.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agsnorth/2574/manifest.json">
 
 # Basic usage
 
