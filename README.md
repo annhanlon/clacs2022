@@ -19,8 +19,14 @@ This is a sample visual essay to demonstrate how to use Juncture for the CLACS 2
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agsnorth/2574/manifest.json">
 
 # Basic usage
+       
+## Port au Prince: IIIF image "to fit"
 
-## Image
+From the Smithsonian Institution collections - small boats in harbor at Port au Prince, 1923-24. 
+<param ve-image fit="contain"
+       manifest="https://ids.si.edu/ids/manifest/SIA-SIA2010-0721">
+
+## Image Zoom
 
 _Republic of Cuba Military Intelligence Map, 1934 _ Explanation of the map.
 <param ve-image 
@@ -28,13 +34,6 @@ _Republic of Cuba Military Intelligence Map, 1934 _ Explanation of the map.
        description="map showing relief, etc" 
        license="copyright" 
        url="https://annhanlon.github.io/images/agdm_1459_medium.jpg">
-       
-## Central Park in Havana, Cuba
-
-From the Smithsonian Institution collections
-<param ve-image fit="contain"
-       manifest="https://ids.si.edu/ids/manifest/NMAH-AHB2012q03608">
-
 
 ## Map
 
