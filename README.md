@@ -22,7 +22,7 @@ This is a sample visual essay to demonstrate how to use Juncture for the CLACS 2
        
 ## Port au Prince: IIIF image "to fit"
 
-From the Smithsonian Institution collections - small boats in harbor at Port au Prince, 1923-24. 
+From the Smithsonian Institution collections - small boats in harbor at Port au Prince, 1923-24. This image uses the fit=contain parameter to make sure the default view is the entire image. You can find the record here: [https://collections.si.edu/search/detail/edanmdm:siris_sic_13621] (https://collections.si.edu/search/detail/edanmdm:siris_sic_13621)
 <param ve-image fit="contain"
        manifest="https://ids.si.edu/ids/manifest/SIA-SIA2010-0721">
 
