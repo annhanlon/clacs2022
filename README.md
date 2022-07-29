@@ -45,6 +45,11 @@ Carte de l'Isle Saint-Domingue..., 1730: Zoomed in using image coordinates to fo
 The Citadelle Laferrière is several miles inland from Cap-Haitien. We are using the map information from Wikidata to create the map to right.
 <param ve-map center="Q206194" zoom="11">
 
+## Video
+
+You can also include Youtube videos by using the param ve-video code and the youtube video ID. This is a TED-Ed video called "The first and last king of Haiti," by Marlene Daut, created in 2019.
+<param ve-video id="q7lfSjjMNU8" title="The first and last kind of Haiti">
+
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
