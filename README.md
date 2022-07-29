@@ -52,10 +52,9 @@ You can also include Youtube videos by using the param ve-video code and the you
 
 ## Multiple viewers
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
+This object is from the National Archives of Haiti, and is found in the Library of Congress's World Digital Library collection. This is the Laws of the French Colony of Saint-Domingue. Cap-Français: P. Roux, -07 to -08, 1801, [https://www.loc.gov/item/2021666967/](https://www.loc.gov/item/2021666967/).
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+       manifest="https://www.loc.gov/item/2021666967/manifest.json">
 
 # References
 
