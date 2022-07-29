@@ -28,12 +28,12 @@ From the Smithsonian Institution collections - small boats in harbor at Port au 
 
 ## Image Zoom
 
-_Republic of Cuba Military Intelligence Map, 1934 _ Explanation of the map.
+Carte de l'Isle Saint-Domingue..., 1730
 <param ve-image 
        label="Republic of Cuba Military Intelligence Map, 1934" 
        description="map showing relief, etc" 
        license="copyright" 
-       url="https://annhanlon.github.io/images/agdm_1459_medium.jpg">
+       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
 
 ## Map
 
