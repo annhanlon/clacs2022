@@ -26,13 +26,18 @@ From the Smithsonian Institution collections - small boats in harbor at Port au 
 <param ve-image fit="contain"
        manifest="https://ids.si.edu/ids/manifest/SIA-SIA2010-0721">
 
-## Image Zoom
+## Image without zoom
 
-Carte de l'Isle Saint-Domingue..., 1730
+Carte de l'Isle Saint-Domingue..., 1730: Full size with no zoom or fit="contain" code.
 <param ve-image 
        label="Republic of Cuba Military Intelligence Map, 1934" 
        description="map showing relief, etc" 
        license="copyright" 
+       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
+       
+## Image with zoom
+Carte
+<param ve-image
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
 
 ## Map
