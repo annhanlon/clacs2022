@@ -36,8 +36,8 @@ Carte de l'Isle Saint-Domingue..., 1730: Full size with no zoom or fit="contain"
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
        
 ## Image with zoom
-Carte
-<param ve-image
+Carte de l'Isle Saint-Domingue..., 1730: Zoomed in using image coordinates to focus on a particular part of the image (in this case, an image of a map).
+<param ve-image region="2135,1939,706,586"
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
 
 ## Map
