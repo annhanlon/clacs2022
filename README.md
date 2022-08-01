@@ -36,6 +36,11 @@ Carte de l'Isle Saint-Domingue..., 1730: Full size with no zoom or fit="contain"
 Carte de l'Isle Saint-Domingue..., 1730: Zoomed in using image coordinates to focus on a particular part of the image (in this case, an image of a map).
 <param ve-image region="2135,1939,706,586"
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
+       
+## Image with zoom-to
+In this map, you can also see the island of <span data-click-image-zoomto="1496,1258,847,703">Inague</span>, to the east of Cuba. Further to the east is the western tip of <span data-click-image-zoomto="3145,1878,2107,1750">Puerto Rico</span>. 
+<param ve-image  
+       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
 
 ## Map
 
@@ -59,9 +64,7 @@ This object from the Harvard University Digital Collections is a book with multi
 <param ve-image 
        manifest="https://iiif.lib.harvard.edu/manifests/drs:492788288" seq="5">
        
-Or show the entire thing:
-<param ve-image 
-       manifest="https://iiif.lib.harvard.edu/manifests/drs:492788288">
+
        
 # References
 
