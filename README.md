@@ -29,10 +29,7 @@ From the Smithsonian Institution collections - small boats in harbor at Port au 
 ## Image without zoom
 
 Carte de l'Isle Saint-Domingue..., 1730: Full size with no zoom or fit="contain" code.
-<param ve-image 
-       label="Republic of Cuba Military Intelligence Map, 1934" 
-       description="map showing relief, etc" 
-       license="copyright" 
+<param ve-image  
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
        
 ## Image with zoom
@@ -55,6 +52,12 @@ You can also include Youtube videos by using the param ve-video code and the you
 This object is from the National Archives of Haiti, and is found in the Library of Congress's [World Digital Library](https://www.loc.gov/collections/world-digital-library/about-this-collection/) collection. *The Laws of the French Colony of Saint-Domingue.* Cap-Français: P. Roux, -07 to -08, 1801, [https://www.loc.gov/item/2021666967/](https://www.loc.gov/item/2021666967/).
 <param ve-image 
        manifest="https://www.loc.gov/item/2021666967/manifest.json">
+       
+## Multiple pages in a IIIF object
+
+This object from the Harvard University Digital Collections is a book with multiple pages. You can identify a specific page to focus on by using the "seq" tag after the manifest address. 
+<param ve-image 
+       manifest="https://iiif.lib.harvard.edu/manifests/drs:492788288" seq="5">
 
 # References
 
