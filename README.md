@@ -58,7 +58,11 @@ This object is from the National Archives of Haiti, and is found in the Library 
 This object from the Harvard University Digital Collections is a book with multiple pages. You can identify a specific page to focus on by using the "seq" tag after the manifest address. 
 <param ve-image 
        manifest="https://iiif.lib.harvard.edu/manifests/drs:492788288" seq="5">
-
+       
+Or show the entire thing:
+<param ve-image 
+       manifest="https://iiif.lib.harvard.edu/manifests/drs:492788288">
+       
 # References
 
 [^1]: [Wikimedia Commons: Citadelle Laferrière, Haiti, 1920](https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re,_Haiti,_1920_-_49810176056.jpg)
